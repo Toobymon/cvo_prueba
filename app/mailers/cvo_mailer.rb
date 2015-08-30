@@ -1,0 +1,2 @@
+class CvoMailer < ApplicationMailer
+end
