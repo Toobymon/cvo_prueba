@@ -17,4 +17,4 @@
 /tmp
 
 #ignorar config smtp
-/config/environments/*.*
+#/config/environments/*.*
